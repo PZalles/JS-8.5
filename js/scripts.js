@@ -1,9 +1,4 @@
-// scripts.js
-
-var name = prompt('Enter your name');
-//First comment 
-//Second comment
-/*Third comment
-alert('Hello, ' + name);
-*/
-console.log('Hello, ' + name);
+var a = 8,
+	h = 10,
+	triangleArea = a*h/2;
+console.log('Triangle field with base a: ' + a + ' and height h: ' + h + ' is equal to: ' + triangleArea);
